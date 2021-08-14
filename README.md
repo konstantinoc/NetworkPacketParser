@@ -8,6 +8,7 @@ Installation:
 		Socket Library: pip install socket
 		Numpy Library: pip install numpy
 		Matplotlib Library: pip install -U matplotlib
+		
 Run the script:
 	python packetParser.py fileName
 
